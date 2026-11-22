@@ -1,0 +1,163 @@
+{
+  "personal": {
+    "name": "Banavathu Yaswanthi Bai",
+    "title": "Java Full Stack Developer",
+    "location": "Piduguralla, Palnadu District, Andhra Pradesh, India",
+    "email": "banavathuyaswanthibai@gmail.com",
+    "phone": "+91-9390560373",
+    "status": "Available for Internships & Full-Time Roles",
+    "bio": "Results-driven Java Full Stack Developer and 3rd-year Computer Science Engineering student with hands-on experience building enterprise e-commerce systems, RESTful microservices, and responsive web applications. Passionate about designing robust backend architectures, clean relational databases, and modern, intuitive user interfaces.",
+    "links": {
+      "linkedin": "https://linkedin.com",
+      "github": "https://github.com",
+      "codechef": "https://codechef.com"
+    }
+  },
+  "strengths": [
+    "Problem Solving",
+    "Java Backend Development",
+    "REST API Development",
+    "Database Architecture",
+    "Team Collaboration (Agile/Scrum)",
+    "Critical Thinking",
+    "Quick Learner"
+  ],
+  "skills": {
+    "languages": [
+      { "name": "Java", "level": "Advanced", "category": "Language", "icon": "java" },
+      { "name": "JavaScript (ES6+)", "level": "Intermediate", "category": "Language", "icon": "javascript" },
+      { "name": "SQL", "level": "Proficient", "category": "Language", "icon": "database" }
+    ],
+    "backend": [
+      { "name": "Spring Boot", "level": "Advanced", "description": "Microservices, Spring MVC, Spring Data JPA, Spring Security" },
+      { "name": "Node.js & Express", "level": "Intermediate", "description": "REST APIs, Middleware, Async Operations" },
+      { "name": "REST APIs", "level": "Advanced", "description": "API design, endpoints, JSON serialization, status handling" },
+      { "name": "JWT Authentication", "level": "Proficient", "description": "Stateless token authentication, token verification" },
+      { "name": "Role-Based Access (RBAC)", "level": "Proficient", "description": "Fine-grained permission and role management" }
+    ],
+    "frontend": [
+      { "name": "React.js", "level": "Proficient", "description": "Functional components, Hooks, State management, Component lifecycle" },
+      { "name": "HTML5", "level": "Advanced", "description": "Semantic markup, Accessibility (a11y), SEO standards" },
+      { "name": "CSS3", "level": "Proficient", "description": "Flexbox, CSS Grid, animations, responsive design" },
+      { "name": "Bootstrap", "level": "Proficient", "description": "Rapid responsive UI prototyping and grid layouts" }
+    ],
+    "databases": [
+      { "name": "PostgreSQL", "level": "Proficient", "description": "Relational schema design, indexes, complex queries, transactions" },
+      { "name": "MySQL", "level": "Proficient", "description": "Database normalization, CRUD operations, foreign key constraints" }
+    ],
+    "coreConcepts": [
+      "Object-Oriented Programming (OOP)",
+      "Data Structures & Algorithms (DSA)",
+      "Database Management Systems (DBMS)",
+      "MVC Architecture",
+      "Authentication & Authorization"
+    ],
+    "developerTools": [
+      "Git",
+      "GitHub",
+      "IntelliJ IDEA",
+      "VS Code",
+      "Postman"
+    ],
+    "spokenLanguages": [
+      { "language": "English", "proficiency": "Professional Working" },
+      { "language": "Telugu", "proficiency": "Native" },
+      { "language": "Hindi", "proficiency": "Conversational" }
+    ]
+  },
+  "experience": [
+    {
+      "id": "infosys-springboard",
+      "role": "Java Full Stack Virtual Intern",
+      "company": "Infosys Springboard 7.0 Virtual Internship",
+      "period": "June 2026 – August 2026",
+      "type": "Virtual Internship",
+      "summary": "Engineered enterprise-grade e-commerce backend modules and integrated them with frontend interfaces within an Agile team structure.",
+      "achievements": [
+        "Collaborated in a 9-member Agile team using Scrum methodologies to architect and build an Enterprise E-Commerce Platform.",
+        "Engineered scalable backend service modules using Java, Spring Boot, PostgreSQL, and RESTful APIs.",
+        "Implemented secure JWT Authentication and Role-Based Access Control (RBAC) to safeguard user and vendor endpoints.",
+        "Developed full-featured Shopping Cart, dynamic Coupon Management, and Checkout workflows.",
+        "Leveraged Git, GitHub, and Postman for source control, peer reviews, API endpoint testing, and regression debugging."
+      ],
+      "technologies": ["Java", "Spring Boot", "PostgreSQL", "REST APIs", "JWT", "RBAC", "Git", "Postman", "Agile/Scrum"]
+    }
+  ],
+  "projects": [
+    {
+      "id": "shopstack",
+      "title": "ShopStack — Enterprise Multi-Vendor E-Commerce Platform",
+      "category": "Full Stack Web Application",
+      "featured": true,
+      "tagline": "A high-performance multi-vendor marketplace with secure payment processing and role-based access control.",
+      "description": "Engineered an end-to-end multi-vendor e-commerce platform that empowers vendors to manage catalogs and customers to browse, cart, and purchase items seamlessly. Built with Java Spring Boot backend and React.js frontend, backed by PostgreSQL.",
+      "highlights": [
+        "Architected secure User Registration & Login with JWT authentication and RBAC for buyers, sellers, and administrators.",
+        "Developed high-throughput modules for Shopping Cart, real-time Coupon Management, and order state transitions.",
+        "Integrated Razorpay Payment Gateway for smooth, secure, and authenticated online transactions.",
+        "Engineered modular REST APIs ensuring low-latency communication with the responsive React.js frontend."
+      ],
+      "technologies": ["Java", "Spring Boot", "React.js", "PostgreSQL", "Razorpay", "JWT", "REST APIs", "Bootstrap/CSS"],
+      "github": "https://github.com",
+      "liveDemo": "#"
+    },
+    {
+      "id": "vidyapedia",
+      "title": "VidyaPedia — College Information Student Portal",
+      "category": "Full Stack Educational Portal",
+      "featured": true,
+      "tagline": "An intuitive college discovery portal enabling students to explore, compare, and filter institutions nationwide.",
+      "description": "Developed a comprehensive college exploration web application designed to help prospective students make informed academic decisions. The portal provides multi-faceted filtering based on courses, geographical location, fee brackets, and institution types.",
+      "highlights": [
+        "Constructed secure backend services using Spring Boot and REST APIs with MySQL database storage for student profiles, college catalogues, and booking queries.",
+        "Crafted a responsive and interactive React.js interface featuring real-time filter search and comparison matrices.",
+        "Implemented intuitive college profile views complete with fee structures, accreditation information, and educational resources.",
+        "Optimized database queries for fast search retrieval across diverse filtering parameters."
+      ],
+      "technologies": ["Java", "Spring Boot", "React.js", "MySQL", "REST APIs", "CSS3", "Postman"],
+      "github": "https://github.com",
+      "liveDemo": "#"
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science Engineering (Third Year)",
+      "institution": "Vasireddy Venkatadri Institute of Technology",
+      "period": "2025 – 2028",
+      "details": "Specializing in software engineering, distributed systems, algorithms, and full-stack development."
+    },
+    {
+      "degree": "Diploma in Computer Engineering",
+      "institution": "Andhra Polytechnic, Kakinada",
+      "period": "2022 – 2025",
+      "score": "CGPA: 8.9",
+      "details": "Graduated with distinction. Core curriculum in computer hardware, programming, databases, and operating systems."
+    },
+    {
+      "degree": "Secondary School Certificate (SSC)",
+      "institution": "A.P. Model School",
+      "score": "Marks: 518 / 600",
+      "details": "Strong academic record with honors in Mathematics and Science."
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Java Programming Fundamentals",
+      "issuer": "Infosys Springboard",
+      "date": "2026",
+      "description": "In-depth mastery of object-oriented programming, exception handling, collections framework, and JVM fundamentals."
+    },
+    {
+      "title": "Data Structures and Algorithms using Java",
+      "issuer": "Infosys Springboard",
+      "date": "2026",
+      "description": "Comprehensive implementation of arrays, linked lists, trees, graphs, sorting, searching, and algorithmic complexity."
+    },
+    {
+      "title": "Java Problem Solving",
+      "issuer": "CodeChef",
+      "date": "2026",
+      "description": "Competitive programming and algorithmic problem solving with Java."
+    }
+  ]
+}
