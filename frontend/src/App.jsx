@@ -20,9 +20,9 @@ const fallbackData = {
     status: "Available for Internships & Full-Time Roles",
     bio: "Results-driven Java Full Stack Developer and 3rd-year Computer Science Engineering student with hands-on experience building enterprise e-commerce systems, RESTful microservices, and responsive web applications. Passionate about designing robust backend architectures, clean relational databases, and modern, intuitive user interfaces.",
     links: {
-      linkedin: "https://linkedin.com",
-      github: "https://github.com",
-      codechef: "https://codechef.com"
+      linkedin: "https://www.linkedin.com/in/yaswanthi-bai/",
+      github: "https://github.com/Yaswanthibai",
+      codechef: "https://www.codechef.com/users/vvit25bq5a0506"
     }
   },
   strengths: [
