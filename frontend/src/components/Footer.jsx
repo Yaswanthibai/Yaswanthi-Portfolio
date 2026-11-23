@@ -54,7 +54,7 @@ export default function Footer({ personal }) {
 
           <div style={{ display: 'flex', alignItems: 'center', gap: '16px' }}>
             <a
-              href={personal?.links?.github || 'https://github.com'}
+              href={personal?.links?.github || 'https://github.com/Yaswanthibai/'}
               target="_blank"
               rel="noreferrer"
               style={{
@@ -70,7 +70,7 @@ export default function Footer({ personal }) {
               <IconGithub size={18} />
             </a>
             <a
-              href={personal?.links?.linkedin || 'https://linkedin.com'}
+              href={personal?.links?.linkedin || 'https://www.linkedin.com/in/yaswanthi-bai/'}
               target="_blank"
               rel="noreferrer"
               style={{
