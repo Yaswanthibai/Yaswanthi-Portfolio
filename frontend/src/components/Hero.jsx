@@ -97,7 +97,7 @@ export default function Hero({ personal, stats }) {
             <div style={{ display: 'flex', alignItems: 'center', gap: '16px', color: 'var(--text-muted)' }}>
               <span style={{ fontSize: '0.875rem', fontWeight: 600 }}>Profiles:</span>
               <a
-                href={personal?.links?.github || 'https://github.com'}
+                href={personal?.links?.github || 'https://github.com/Yaswanthibai'}
                 target="_blank"
                 rel="noreferrer"
                 aria-label="GitHub Profile"
@@ -114,7 +114,7 @@ export default function Hero({ personal, stats }) {
                 <IconGithub size={20} />
               </a>
               <a
-                href={personal?.links?.linkedin || 'https://linkedin.com'}
+                href={personal?.links?.linkedin || 'https://www.linkedin.com/in/yaswanthi-bai/'}
                 target="_blank"
                 rel="noreferrer"
                 aria-label="LinkedIn Profile"
@@ -131,7 +131,7 @@ export default function Hero({ personal, stats }) {
                 <IconLinkedin size={20} />
               </a>
               <a
-                href={personal?.links?.codechef || 'https://codechef.com'}
+                href={personal?.links?.codechef || 'https://www.codechef.com/users/vvit25bq5a0506'}
                 target="_blank"
                 rel="noreferrer"
                 aria-label="CodeChef Profile"
